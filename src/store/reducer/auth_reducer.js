@@ -18,4 +18,4 @@ export default (state = INITIAL_STATE, action)=>
             break;
     }
     return state;
-}
+}   
